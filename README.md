@@ -1,4 +1,27 @@
 # Hi, I'm Sairam 👋
+import { motion } from "framer-motion";
+
+export default function Hero() {
+  return (
+    <section className="hero">
+      <motion.h1
+        initial={{ opacity: 0, y: 40 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.8 }}
+      >
+        Sai
+      </motion.h1>
+
+      <motion.p
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.6 }}
+      >
+        GIS Analyst · Spatial Data · Web Mapping
+      </motion.p>
+    </section>
+  );
+}
 
  MS Business Analytics @ Kent State University  
  Kent, Ohio, USA  
