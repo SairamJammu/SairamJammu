@@ -1,6 +1,6 @@
 <img width="2487" height="673" alt="github-header-banner" src="https://github.com/user-attachments/assets/ab05278a-8dc0-45e3-a361-7cf2017f78b0" />
 
-!<h1 align="center">Hi 👋, I'm Sairam Jammu</h1>!
+**<h1 align="center">Hi 👋, I'm Sairam Jammu</h1>**
 <h3 align="center">GIS Analyst | Spatial Data Analytics | Web Mapping</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairamjammu&label=Profile%20views&color=0e75b6&style=flat" alt="sairamjammu" /> </p>
