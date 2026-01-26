@@ -1,313 +1,99 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=250&section=header&text=Sairam%20Jammu&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=GIS%20Analyst%20|%20Spatial%20Data%20Analytics%20|%20Remote%20Sensing&descAlignY=55&descAlign=50)
+
 <div align="center">
 
-# 🛰️ SAIRAM JAMMU - SPATIAL DATA EXPLORER 🌍
+### 🛰️ Mapping the World Through Data | 🌍 From Satellites to Solutions
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=GIS+Analyst+%7C+Geospatial+Engineer;Mapping+the+Universe+One+Pixel+at+a+Time;From+Satellites+to+Solutions;Spatial+Analytics+%7C+Remote+Sensing" alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=sairamjammu&label=Mission%20Control%20Visits&color=00d9ff&style=for-the-badge)](https://github.com/sairamjammu)
+[![Profile Views](https://komarev.com/ghpvc/?username=sairamjammu&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sairamjammu)
+[![GitHub followers](https://img.shields.io/github/followers/sairamjammu?label=Followers&style=social)](https://github.com/sairamjammu)
 
 </div>
 
 ---
 
-## 🌌 MISSION BRIEFING
+## 👨‍💻 About Me
 
-```ascii
-    *  .  *       .             *
-  .      .   *         *    .        *
-       *     ___---___       .    *
-    *      .--         --.       .
-        ./   ()      .-. \         *
-       /   o    .   (   )  \
-      / .            '-'    \      .
-     | ()    .  O         .  |
-    |                         |       *
-    |    o           ()       |
-    |       .--.          O   |
-     | .   |    |            |
-      \    `.__.'    o   .  /
-   *   \                  /       .
-     *  `--..____..--'
- .     *      *      .       *
-```
+🔭 I'm currently working on **Spatial analytics & GIS-based data science projects**
 
-> 🎯 **Current Coordinates**: Orbiting between spatial analytics and deep learning  
-> 🚀 **Mission**: Transform raw satellite data into actionable intelligence  
-> 📡 **Status**: Always tracking, always mapping
+🌱 I'm currently learning **Advanced GIS, Spatial Machine Learning, Web GIS**
+
+🛰️ Passionate about **Remote Sensing, Earth Observation, Geospatial AI**
+
+💬 Ask me about **GIS, spatial analytics, Python, ArcGIS, QGIS, satellite imagery**
+
+📫 How to reach me **jammusairam3@gmail.com**
 
 ---
 
-## 🛸 NAVIGATION SYSTEMS
+## 🛰️ Tech Stack
 
 <div align="center">
 
-### 🌠 CORE TECHNOLOGIES
+### Languages & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="MATLAB" />
-      <br>MATLAB
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48" height="48" alt="R" />
-      <br>R
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
+<a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a>
+<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
 
-### 🗺️ GEOSPATIAL ARSENAL
+### Geospatial Expertise
 
-```
-🛰️ ArcGIS Pro        │ 🌍 QGIS           │ 📡 Remote Sensing
-🗺️ Web Mapping       │ 🎯 Spatial ML     │ 🌐 GeoAI
-📊 Spatial Analytics │ 🛸 Drone Imagery  │ 🌌 Point Clouds
-```
+🗺️ **ArcGIS Pro** • **QGIS** • **Google Earth Engine**  
+🛰️ **Remote Sensing** • **Spatial Analysis** • **Web Mapping**  
+📊 **Spatial Machine Learning** • **GeoAI** • **Point Cloud Processing**
 
 </div>
 
 ---
 
-## 🌍 ACTIVE MISSIONS
+## 🌍 Featured Projects
 
-<details>
-<summary>🔭 <b>Deep Learning Road Network Extraction</b></summary>
+### 🛰️ [Deep Learning Road Network Extraction](https://github.com/SairamJammu/deep-learning-road-network-extraction)
+Deep learning–based road network extraction from high-resolution aerial imagery using U-Net, DeepLabV3+, PSPNet, and FPN.
 
-```
-📡 MISSION DETAILS
-├── Objective: Extract road networks from high-resolution satellite imagery
-├── Tech Stack: U-Net, DeepLabV3+, PSPNet, FPN
-├── Data Source: Aerial reconnaissance imagery
-└── Status: ✅ Mission Success
-```
+### 📊 [KNFS Operations Sales Dashboard](https://github.com/SairamJammu/knfs-operations-sales-dashboard)
+Interactive Power BI dashboard for retail sales and inventory decision support with spatial analytics.
 
-**Key Achievements:**
-- 🎯 Precision road detection using deep neural networks
-- 🗺️ Automated mapping pipeline for urban planning
-- 🚀 Scalable architecture for massive imagery datasets
+### 📈 [WOMart Sales Forecasting](https://github.com/SairamJammu/womart-sales-forecasting-capstone)
+Predictive analytics and forecasting framework for retail sales using XGBoost, LightGBM, ARIMA, and R Shiny.
 
-</details>
-
-<details>
-<summary>🛰️ <b>Retail Intelligence Dashboard (KNFS Operations)</b></summary>
-
-```
-📊 MISSION DETAILS
-├── Objective: Transform retail data into strategic insights
-├── Tech Stack: Power BI, DAX, Spatial Analytics
-├── Scope: Sales forecasting & inventory optimization
-└── Status: 🟢 Operational
-```
-
-**Impact:**
-- 📈 Real-time sales tracking across geographic regions
-- 🗺️ Location-based performance analytics
-- 💡 Data-driven decision support systems
-
-</details>
-
-<details>
-<summary>🌐 <b>WOMart Sales Forecasting Engine</b></summary>
-
-```
-🔮 MISSION DETAILS
-├── Objective: Predictive analytics for retail demand
-├── Tech Stack: XGBoost, LightGBM, ARIMA, R Shiny
-├── Features: Time-series forecasting + Interactive dashboards
-└── Status: 🟢 Deployed
-```
-
-**Capabilities:**
-- 📊 Multi-model ensemble forecasting
-- 🗺️ Geographic demand pattern recognition
-- 🎯 Inventory optimization algorithms
-
-</details>
+### 🤖 [IMDB Sentiment Analysis](https://github.com/SairamJammu/Sairam_Jammu_BA-64061-001)
+Advanced Machine Learning – Neural Networks for sentiment classification.
 
 ---
 
-## 📡 SATELLITE TELEMETRY
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sairamjammu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamjammu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6e96&currStreakLabel=00d9ff" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=sairamjammu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sairamjammu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairamjammu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=sairamjammu&theme=tokyonight&no-frame=true&no-bg=true&column=4&title=Stars,Commits,Repositories,PullRequest" alt="Trophies" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairamjammu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 
 </div>
 
 ---
 
-## 🗺️ EXPERTISE COORDINATES
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "skill": "Spatial Analytics",
-        "proficiency": 95,
-        "icon": "🗺️"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "skill": "Machine Learning",
-        "proficiency": 90,
-        "icon": "🤖"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "skill": "Remote Sensing",
-        "proficiency": 88,
-        "icon": "🛰️"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "skill": "Python Development",
-        "proficiency": 92,
-        "icon": "🐍"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "skill": "Data Visualization",
-        "proficiency": 87,
-        "icon": "📊"
-      }
-    }
-  ]
-}
-```
-
----
-
-## 🌟 CONSTELLATION OF INTERESTS
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-```
-        🌍
-       ╱ ╲
-      ╱   ╲
-     ╱ GIS ╲
-    ╱───────╲
-   ╱  🛰️ 📡  ╲
-  ╱  Spatial  ╲
- ╱   Analytics ╲
-╱───────────────╲
-    🗺️  📊  🌐
-```
-
-</div>
-
-- 🛰️ **Satellite Imagery Analysis** - Turning pixels into insights
-- 🗺️ **Web Mapping Applications** - Interactive cartography
-- 🌍 **Geospatial Machine Learning** - AI meets geography
-- 📡 **Remote Sensing** - Earth observation & change detection
-- 🌐 **Spatial Databases** - PostGIS, SpatiaLite, GeoMongo
-- 🎯 **Location Intelligence** - Pattern recognition in space
-
----
-
-## 📬 ESTABLISH COMMUNICATIONS
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jammusairam)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jammusairam3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SairamJammu)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sairamjammu&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🌌 MISSION PHILOSOPHY
+## 🌐 Connect with Me
 
 <div align="center">
 
-> *"Every map tells a story. Every dataset holds a secret.  
-> I'm here to decode the spatial patterns that shape our world."*
-
-```
-  _______________
- /               \
-|  🌍 → 📊 → 💡 |
-|                 |
-| Data → Analysis |
-|     → Insight   |
- \_______________ /
-        ||
-        ||
-    \  ||  /
-     \ || /
-      \||/
-       \/
-    IMPACT
-```
-
-### 🎯 Current Focus
-
-```python
-class GeospatialEngineer:
-    def __init__(self):
-        self.name = "Sairam Jammu"
-        self.role = "GIS Analyst & Spatial Data Scientist"
-        self.location = "Earth 🌍"
-        
-    def current_missions(self):
-        return [
-            "🛰️ Advanced Remote Sensing Projects",
-            "🗺️ Web GIS Development",
-            "🤖 Spatial Machine Learning",
-            "📡 Real-time Geospatial Analytics"
-        ]
-    
-    def ask_me_about(self):
-        return [
-            "GIS workflows and automation",
-            "Satellite imagery processing",
-            "Spatial data science",
-            "Geospatial deep learning",
-            "Map projections (yes, really!)"
-        ]
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jammusairam)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jammusairam3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SairamJammu)
 
 </div>
 
@@ -315,16 +101,8 @@ class GeospatialEngineer:
 
 <div align="center">
 
-### 🌠 "Mapping Tomorrow, Today"
+### 🌟 "Transforming spatial data into actionable insights"
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=🛰️%20Keep%20Exploring%20🗺️&fontSize=20&fontColor=fff&animation=twinkling)
-
----
-
-**⭐ Star my repositories if you find them useful!**  
-**🔭 Let's collaborate on geospatial projects!**
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=100&section=footer)
 
 </div>
-
-<!-- Satellite tracker -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
