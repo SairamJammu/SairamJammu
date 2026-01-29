@@ -5,12 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Transforming+Geospatial+Data+into+Intelligence+🌍;Building+Production+Spatial+ML+Systems+🛰️;Deep+Learning+for+Remote+Sensing+%7C+GIS+%7C+Spatial+Analytics+⚡)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://linkedin.com/in/jammusairam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jammusairam3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/SairamJammu"><img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jammusairam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jammusairam3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/SairamJammu"><img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 
 </div>
 
@@ -27,30 +27,39 @@ class GeospatialEngineer:
             "Geospatial Analytics at Scale",
             "Earth Observation Systems"
         ]
-        self.mission = "Building AI-powered geospatial systems that transform satellite imagery and spatial data into actionable intelligence"
+        self.mission = (
+            "Building AI-powered geospatial systems that transform "
+            "satellite imagery and spatial data into actionable intelligence"
+        )
         
     def current_focus(self):
         return {
             "research": "Deep learning architectures for road network extraction",
             "building": "Production-grade spatial ML pipelines",
-            "exploring": ["Transformer models for satellite imagery", 
-                         "Scalable geospatial data processing",
-                         "Real-time earth observation analytics"],
-            "philosophy": "If your spatial model can't scale to continental datasets, it's research—not engineering"
+            "exploring": [
+                "Transformer models for satellite imagery", 
+                "Scalable geospatial data processing",
+                "Real-time earth observation analytics"
+            ],
+            "philosophy": (
+                "If your spatial model can't scale to continental datasets, "
+                "it's research—not engineering"
+            )
         }
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
 ## 🔥 FLAGSHIP PROJECTS
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛰️ Deep Learning Road Network Extraction
+
 **AI-Powered Infrastructure Mapping from Space**
 
 Automated road network extraction using state-of-the-art deep learning architectures for high-resolution aerial imagery analysis.
@@ -65,12 +74,15 @@ Innovation: Multi-scale feature fusion
 
 **Impact**: Enabling automated infrastructure mapping for urban planning and disaster response
 
-**Tech**: `PyTorch` `TensorFlow` `GDAL` `Rasterio` `GeoPandas`
+**Tech Stack**: `PyTorch` `TensorFlow` `GDAL` `Rasterio` `GeoPandas`
+
+**[View Project →](https://github.com/SairamJammu/deep-learning-road-network-extraction)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 WoMart Sales Forecasting Engine
+
 **Predictive Analytics for Retail Intelligence**
 
 Enterprise-grade forecasting framework combining classical time series and gradient boosting for retail optimization.
@@ -85,36 +97,43 @@ Deployment: Production-ready pipeline
 
 **Impact**: Optimizing inventory management and reducing stockouts by 30%
 
-**Tech**: `R` `Python` `Shiny` `XGBoost` `LightGBM`
+**Tech Stack**: `R` `Python` `Shiny` `XGBoost` `LightGBM`
+
+**[View Project →](https://github.com/SairamJammu/womart-sales-forecasting-capstone)**
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏪 KNFS Operations Dashboard
+
 **Interactive BI for Decision Support**
 
 Real-time retail analytics dashboard enabling data-driven decision making for sales and inventory optimization.
 
 ```yaml
 Platform: Power BI with DAX optimization
-Features: Real-time sales tracking
-         Inventory flow analysis
-         Predictive restocking alerts
+Features: 
+  - Real-time sales tracking
+  - Inventory flow analysis
+  - Predictive restocking alerts
 KPIs: 15+ automated metrics
 Users: Cross-functional teams
 ```
 
 **Impact**: Reducing decision lag from days to minutes
 
-**Tech**: `Power BI` `DAX` `SQL` `Azure`
+**Tech Stack**: `Power BI` `DAX` `SQL` `Azure`
+
+**[View Project →](https://github.com/SairamJammu/knfs-operations-sales-dashboard)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 IMDB Sentiment Neural Networks
+
 **Advanced NLP for Opinion Mining**
 
 Deep learning-based sentiment analysis leveraging recurrent and transformer architectures for movie review classification.
@@ -129,14 +148,16 @@ Production: FastAPI deployment ready
 
 **Impact**: Building production NLP systems that understand context
 
-**Tech**: `PyTorch` `Transformers` `BERT` `FastAPI`
+**Tech Stack**: `PyTorch` `Transformers` `BERT` `FastAPI`
+
+**[View Project →](https://github.com/SairamJammu/Sairam_Jammu_BA-64061-001)**
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
 ## ⚙️ TECHNOLOGY ARSENAL
@@ -194,7 +215,7 @@ Production: FastAPI deployment ready
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
 ## 📚 EXPERTISE DOMAINS
@@ -212,7 +233,7 @@ Production: FastAPI deployment ready
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
 ## 💡 CURRENT RESEARCH & EXPLORATION
@@ -239,27 +260,31 @@ mindmap
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
 ## 🎓 BACKGROUND & TRAJECTORY
 
 ```javascript
-const professional_journey = {
+const professionalJourney = {
     education: {
         current: "Advanced Machine Learning & Spatial Data Science",
         specialization: ["Deep Learning", "Geospatial Analytics", "Remote Sensing"],
-        focus_areas: ["Computer Vision for Satellite Imagery", "Spatial Statistics", "Big Geospatial Data"]
+        focusAreas: [
+            "Computer Vision for Satellite Imagery", 
+            "Spatial Statistics", 
+            "Big Geospatial Data"
+        ]
     },
     
-    technical_evolution: {
+    technicalEvolution: {
         foundation: "GIS Analysis & Cartography",
         intermediate: "Spatial Data Science & ML",
         advanced: "Deep Learning for Earth Observation",
         current: "Production Geospatial AI Systems"
     },
     
-    impact_metrics: {
+    impactMetrics: {
         projects: "Building systems that process terabytes of spatial data",
         innovation: "Pushing boundaries of automated infrastructure mapping",
         scale: "From single images to continental-scale analysis"
@@ -274,7 +299,7 @@ const professional_journey = {
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
 ## 🎯 WHAT DRIVES ME
@@ -286,42 +311,46 @@ const professional_journey = {
 > **"The difference between a research model and a production system is 10x the work. I focus on the 10x that actually matters."**
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
 ## 🌟 FUTURE DIRECTIONS
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### 🛸 **AI-Powered Earth Observation**
-Real-time satellite imagery analysis
-Foundation models for remote sensing
+### 🛸 AI-Powered Earth Observation
+
+Real-time satellite imagery analysis  
+Foundation models for remote sensing  
 Automated change detection systems
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### 🌐 **Scalable Spatial Computing**
-Cloud-native geospatial processing
-Distributed spatial ML workflows
+### 🌐 Scalable Spatial Computing
+
+Cloud-native geospatial processing  
+Distributed spatial ML workflows  
 Serverless earth observation
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### 🧠 **Advanced Spatial ML**
-Transformer architectures for imagery
-Graph neural nets for spatial networks
+### 🧠 Advanced Spatial ML
+
+Transformer architectures for imagery  
+Graph neural nets for spatial networks  
 3D reconstruction from satellites
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-### 📡 **Production MLOps**
-CI/CD for geospatial models
-Automated retraining pipelines
+### 📡 Production MLOps
+
+CI/CD for geospatial models  
+Automated retraining pipelines  
 Model monitoring & drift detection
 
 </td>
@@ -329,7 +358,7 @@ Model monitoring & drift detection
 </table>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
 ## 🤝 LET'S COLLABORATE
@@ -351,27 +380,27 @@ Model monitoring & drift detection
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
 ## 📊 PERFORMANCE METRICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sairamjammu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sairamjammu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B00&currStreakLabel=00F5FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sairamjammu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sairamjammu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B00&currStreakLabel=00F5FF" alt="GitHub Streak" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairamjammu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sairamjammu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairamjammu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sairamjammu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF" alt="Activity Graph" width="98%" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sairamjammu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sairamjammu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://komarev.com/ghpvc/?username=sairamjammu&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sairamjammu&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
 ## 💬 DEV WISDOM
