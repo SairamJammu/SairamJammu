@@ -16,37 +16,47 @@
 
 ## 🎯 MISSION STATEMENT
 
-```python
-class GeospatialEngineer:
-    def __init__(self):
-        self.name = "Sairam Jammu"
-        self.role = "Geospatial Intelligence Engineer"
-        self.specialization = [
-            "Spatial Machine Learning",
-            "Deep Learning for Remote Sensing", 
-            "Geospatial Analytics at Scale",
-            "Earth Observation Systems"
-        ]
-        self.mission = (
-            "Building AI-powered geospatial systems that transform "
-            "satellite imagery and spatial data into actionable intelligence"
-        )
-        
-    def current_focus(self):
-        return {
-            "research": "Deep learning architectures for road network extraction",
-            "building": "Production-grade spatial ML pipelines",
-            "exploring": [
-                "Transformer models for satellite imagery", 
-                "Scalable geospatial data processing",
-                "Real-time earth observation analytics"
-            ],
-            "philosophy": (
-                "If your spatial model can't scale to continental datasets, "
-                "it's research—not engineering"
-            )
-        }
+> ### **Building AI-powered geospatial systems that transform satellite imagery and spatial data into actionable intelligence**
+
+<table>
+<tr>
+<td>
+
+**👨‍💻 Who I Am**
+```yaml
+Name: Sairam Jammu
+Role: Geospatial Intelligence Engineer
+Specialization:
+  - Spatial Machine Learning
+  - Deep Learning for Remote Sensing
+  - Geospatial Analytics at Scale
+  - Earth Observation Systems
 ```
+
+</td>
+<td>
+
+**🎯 Current Focus**
+```yaml
+Research: Deep learning architectures for road network extraction
+Building: Production-grade spatial ML pipelines
+Exploring:
+  - Transformer models for satellite imagery
+  - Scalable geospatial data processing
+  - Real-time earth observation analytics
+```
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**💭 Philosophy**
+> *"If your spatial model can't scale to continental datasets, it's research—not engineering"*
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
@@ -64,13 +74,12 @@ class GeospatialEngineer:
 
 Automated road network extraction using state-of-the-art deep learning architectures for high-resolution aerial imagery analysis.
 
-```yaml
-Architecture: U-Net, DeepLabV3+, PSPNet, FPN
-Dataset: High-resolution aerial imagery
-Performance: 92%+ IoU on road extraction
-Scale: Processing 1000s of km² efficiently
-Innovation: Multi-scale feature fusion
-```
+**Key Highlights:**
+- **Architecture**: U-Net, DeepLabV3+, PSPNet, FPN
+- **Dataset**: High-resolution aerial imagery
+- **Performance**: 92%+ IoU on road extraction
+- **Scale**: Processing 1000s of km² efficiently
+- **Innovation**: Multi-scale feature fusion
 
 **Impact**: Enabling automated infrastructure mapping for urban planning and disaster response
 
@@ -87,13 +96,12 @@ Innovation: Multi-scale feature fusion
 
 Enterprise-grade forecasting framework combining classical time series and gradient boosting for retail optimization.
 
-```yaml
-Models: XGBoost, LightGBM, ARIMA, Prophet
-Interface: Interactive R Shiny dashboard
-Metrics: RMSE, MAE, MAPE tracking
-Features: Automated feature engineering
-Deployment: Production-ready pipeline
-```
+**Key Highlights:**
+- **Models**: XGBoost, LightGBM, ARIMA, Prophet
+- **Interface**: Interactive R Shiny dashboard
+- **Metrics**: RMSE, MAE, MAPE tracking
+- **Features**: Automated feature engineering
+- **Deployment**: Production-ready pipeline
 
 **Impact**: Optimizing inventory management and reducing stockouts by 30%
 
@@ -113,15 +121,14 @@ Deployment: Production-ready pipeline
 
 Real-time retail analytics dashboard enabling data-driven decision making for sales and inventory optimization.
 
-```yaml
-Platform: Power BI with DAX optimization
-Features: 
+**Key Highlights:**
+- **Platform**: Power BI with DAX optimization
+- **Features**: 
   - Real-time sales tracking
   - Inventory flow analysis
   - Predictive restocking alerts
-KPIs: 15+ automated metrics
-Users: Cross-functional teams
-```
+- **KPIs**: 15+ automated metrics
+- **Users**: Cross-functional teams
 
 **Impact**: Reducing decision lag from days to minutes
 
@@ -138,13 +145,12 @@ Users: Cross-functional teams
 
 Deep learning-based sentiment analysis leveraging recurrent and transformer architectures for movie review classification.
 
-```yaml
-Architecture: LSTM, GRU, BERT fine-tuning
-Dataset: IMDB 50K reviews
-Accuracy: 91%+ on test set
-Techniques: Transfer learning, attention
-Production: FastAPI deployment ready
-```
+**Key Highlights:**
+- **Architecture**: LSTM, GRU, BERT fine-tuning
+- **Dataset**: IMDB 50K reviews
+- **Accuracy**: 91%+ on test set
+- **Techniques**: Transfer learning, attention
+- **Production**: FastAPI deployment ready
 
 **Impact**: Building production NLP systems that understand context
 
@@ -238,26 +244,60 @@ Production: FastAPI deployment ready
 
 ## 💡 CURRENT RESEARCH & EXPLORATION
 
-```mermaid
-mindmap
-  root((Geospatial AI))
-    Transformer Models
-      Vision Transformers for Satellite Imagery
-      Attention Mechanisms for Spatial Features
-      BERT for Spatial Language Models
-    Scalable Processing
-      Dask for Distributed Geospatial Computing
-      Cloud-Native Geospatial Formats
-      Serverless Earth Observation Pipelines
-    Advanced Architectures
-      Graph Neural Networks for Road Networks
-      3D Semantic Segmentation from Point Clouds
-      Multi-Temporal Change Detection
-    MLOps for Geospatial
-      Model Versioning for Spatial ML
-      Automated Retraining on New Imagery
-      Production Deployment Strategies
-```
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+### 🔄 Transformer Models
+
+**Vision Transformers for Satellite Imagery**
+
+Attention Mechanisms for Spatial Features
+
+BERT for Spatial Language Models
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### ⚡ Scalable Processing
+
+**Dask for Distributed Geospatial Computing**
+
+Cloud-Native Geospatial Formats
+
+Serverless Earth Observation Pipelines
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🧠 Advanced Architectures
+
+**Graph Neural Networks for Road Networks**
+
+3D Semantic Segmentation from Point Clouds
+
+Multi-Temporal Change Detection
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🚀 MLOps for Geospatial
+
+**Model Versioning for Spatial ML**
+
+Automated Retraining on New Imagery
+
+Production Deployment Strategies
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🎯 Core Focus Areas:** Geospatial AI • Scalable Processing • Advanced Deep Learning • Production MLOps
+
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
@@ -265,44 +305,71 @@ mindmap
 
 ## 🎓 BACKGROUND & TRAJECTORY
 
-```javascript
-const professionalJourney = {
-    education: {
-        current: "Advanced Machine Learning & Spatial Data Science",
-        specialization: ["Deep Learning", "Geospatial Analytics", "Remote Sensing"],
-        focusAreas: [
-            "Computer Vision for Satellite Imagery", 
-            "Spatial Statistics", 
-            "Big Geospatial Data"
-        ]
-    },
-    
-    technicalEvolution: {
-        foundation: "GIS Analysis & Cartography",
-        intermediate: "Spatial Data Science & ML",
-        advanced: "Deep Learning for Earth Observation",
-        current: "Production Geospatial AI Systems"
-    },
-    
-    impactMetrics: {
-        projects: "Building systems that process terabytes of spatial data",
-        innovation: "Pushing boundaries of automated infrastructure mapping",
-        scale: "From single images to continental-scale analysis"
-    },
-    
-    philosophy: [
-        "Geospatial data is the world's largest untapped ML resource",
-        "Production systems must handle edge cases—not just clean datasets",
-        "The best spatial model is one that works at scale, in production, every time"
-    ]
-};
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 Education & Specialization
+
+**Current Focus**: Advanced Machine Learning & Spatial Data Science
+
+**Core Specializations**:
+- Deep Learning
+- Geospatial Analytics
+- Remote Sensing
+
+**Research Areas**:
+- Computer Vision for Satellite Imagery
+- Spatial Statistics
+- Big Geospatial Data
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Technical Evolution
+
+**Foundation** → GIS Analysis & Cartography
+
+**Intermediate** → Spatial Data Science & ML
+
+**Advanced** → Deep Learning for Earth Observation
+
+**Current** → Production Geospatial AI Systems
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 📊 Impact Metrics
+
+- **Projects**: Building systems that process terabytes of spatial data
+- **Innovation**: Pushing boundaries of automated infrastructure mapping
+- **Scale**: From single images to continental-scale analysis
+
+### 💭 Core Philosophy
+
+> *"Geospatial data is the world's largest untapped ML resource"*
+
+> *"Production systems must handle edge cases—not just clean datasets"*
+
+> *"The best spatial model is one that works at scale, in production, every time"*
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
 ## 🎯 WHAT DRIVES ME
+
+<div align="center">
+
+### 🌍 Vision & Purpose
+
+</div>
 
 > **"The Earth generates more spatial data every day than we can process in a lifetime. My mission is to build AI systems that turn that overwhelming data stream into precise, actionable intelligence."**
 
@@ -322,8 +389,10 @@ const professionalJourney = {
 
 ### 🛸 AI-Powered Earth Observation
 
-Real-time satellite imagery analysis  
-Foundation models for remote sensing  
+Real-time satellite imagery analysis
+
+Foundation models for remote sensing
+
 Automated change detection systems
 
 </td>
@@ -331,8 +400,10 @@ Automated change detection systems
 
 ### 🌐 Scalable Spatial Computing
 
-Cloud-native geospatial processing  
-Distributed spatial ML workflows  
+Cloud-native geospatial processing
+
+Distributed spatial ML workflows
+
 Serverless earth observation
 
 </td>
@@ -340,8 +411,10 @@ Serverless earth observation
 
 ### 🧠 Advanced Spatial ML
 
-Transformer architectures for imagery  
-Graph neural nets for spatial networks  
+Transformer architectures for imagery
+
+Graph neural nets for spatial networks
+
 3D reconstruction from satellites
 
 </td>
@@ -349,8 +422,10 @@ Graph neural nets for spatial networks
 
 ### 📡 Production MLOps
 
-CI/CD for geospatial models  
-Automated retraining pipelines  
+CI/CD for geospatial models
+
+Automated retraining pipelines
+
 Model monitoring & drift detection
 
 </td>
