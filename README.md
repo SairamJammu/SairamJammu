@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12&height=300&section=header&text=SAIRAM%20JAMMU&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Geospatial%20Intelligence%20Engineer%20%7C%20Spatial%20ML%20Architect%20%7C%20Earth%20Observation%20Specialist&descSize=22&descAlignY=52)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Transforming+Geospatial+Data+into+Intelligence+🌍;Building+Production+Spatial+ML+Systems+🛰️;Deep+Learning+for+Remote+Sensing+%7C+GIS+%7C+Spatial+Analytics+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Transforming+Geospatial+Data+into+Intelligence+;Building+Production+Spatial+ML+Systems+🛰️;Deep+Learning+for+Remote+Sensing+%7C+GIS+%7C+Spatial+Analytics+)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/jammusairam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -14,7 +14,7 @@
 
 </div>
 
-## 🎯 MISSION STATEMENT
+##  MISSION STATEMENT
 
 > ### **Building AI-powered geospatial systems that transform satellite imagery and spatial data into actionable intelligence**
 
@@ -22,7 +22,7 @@
 <tr>
 <td>
 
-**👨‍💻 Who I Am**
+** Who I Am**
 ```yaml
 Name: Sairam Jammu
 Role: Geospatial Intelligence Engineer
@@ -36,7 +36,7 @@ Specialization:
 </td>
 <td>
 
-**🎯 Current Focus**
+** Current Focus**
 ```yaml
 Research: Deep learning architectures for road network extraction
 Building: Production-grade spatial ML pipelines
@@ -51,7 +51,7 @@ Exploring:
 <tr>
 <td colspan="2">
 
-**💭 Philosophy**
+** Philosophy**
 > *"If your spatial model can't scale to continental datasets, it's research—not engineering"*
 
 </td>
@@ -62,13 +62,13 @@ Exploring:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
-## 🔥 FLAGSHIP PROJECTS
+##  FLAGSHIP PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ Deep Learning Road Network Extraction
+###  Deep Learning Road Network Extraction
 
 **AI-Powered Infrastructure Mapping from Space**
 
@@ -90,7 +90,7 @@ Automated road network extraction using state-of-the-art deep learning architect
 </td>
 <td width="50%" valign="top">
 
-### 📊 WoMart Sales Forecasting Engine
+###  WoMart Sales Forecasting Engine
 
 **Predictive Analytics for Retail Intelligence**
 
@@ -115,7 +115,7 @@ Enterprise-grade forecasting framework combining classical time series and gradi
 <tr>
 <td width="50%" valign="top">
 
-### 🏪 KNFS Operations Dashboard
+###  KNFS Operations Dashboard
 
 **Interactive BI for Decision Support**
 
@@ -139,7 +139,7 @@ Real-time retail analytics dashboard enabling data-driven decision making for sa
 </td>
 <td width="50%" valign="top">
 
-### 🧠 IMDB Sentiment Neural Networks
+###  IMDB Sentiment Neural Networks
 
 **Advanced NLP for Opinion Mining**
 
@@ -166,11 +166,11 @@ Deep learning-based sentiment analysis leveraging recurrent and transformer arch
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
-## ⚙️ TECHNOLOGY ARSENAL
+##  TECHNOLOGY ARSENAL
 
 <div align="center">
 
-### 🌍 Geospatial & Remote Sensing Stack
+###  Geospatial & Remote Sensing Stack
 
 ![ArcGIS](https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
@@ -178,7 +178,7 @@ Deep learning-based sentiment analysis leveraging recurrent and transformer arch
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 Deep Learning & ML Frameworks
+###  Deep Learning & ML Frameworks
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -186,7 +186,7 @@ Deep learning-based sentiment analysis leveraging recurrent and transformer arch
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### 🐍 Geospatial Python Ecosystem
+###  Geospatial Python Ecosystem
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=pandas&logoColor=white)
@@ -194,7 +194,7 @@ Deep learning-based sentiment analysis leveraging recurrent and transformer arch
 ![Shapely](https://img.shields.io/badge/Shapely-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Fiona](https://img.shields.io/badge/Fiona-013243?style=for-the-badge&logo=python&logoColor=white)
 
-### 📊 Analytics & Visualization
+###  Analytics & Visualization
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -202,7 +202,7 @@ Deep learning-based sentiment analysis leveraging recurrent and transformer arch
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🗄️ Databases & Cloud Infrastructure
+###  Databases & Cloud Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -210,7 +210,7 @@ Deep learning-based sentiment analysis leveraging recurrent and transformer arch
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🧰 Development & MLOps Tools
+###  Development & MLOps Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -224,11 +224,11 @@ Deep learning-based sentiment analysis leveraging recurrent and transformer arch
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
-## 📚 EXPERTISE DOMAINS
+##  EXPERTISE DOMAINS
 
 <div align="center">
 
-| 🛰️ **Remote Sensing & Earth Observation** | 🗺️ **Geospatial Analysis** | 🤖 **Spatial Machine Learning** | 📊 **Geospatial Data Engineering** |
+|  **Remote Sensing & Earth Observation** |  **Geospatial Analysis** |  **Spatial Machine Learning** |  **Geospatial Data Engineering** |
 |:---|:---|:---|:---|
 | Satellite image classification | Spatial statistics & geostatistics | Deep learning for imagery | Spatial database design |
 | Change detection algorithms | Network analysis & routing | Semantic segmentation (U-Net, DeepLab) | PostGIS & spatial queries |
@@ -242,13 +242,13 @@ Deep learning-based sentiment analysis leveraging recurrent and transformer arch
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
-## 💡 CURRENT RESEARCH & EXPLORATION
+##  CURRENT RESEARCH & EXPLORATION
 
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
 
-### 🔄 Transformer Models
+###  Transformer Models
 
 **Vision Transformers for Satellite Imagery**
 
@@ -259,7 +259,7 @@ BERT for Spatial Language Models
 </td>
 <td width="25%" align="center" valign="top">
 
-### ⚡ Scalable Processing
+###  Scalable Processing
 
 **Dask for Distributed Geospatial Computing**
 
@@ -270,7 +270,7 @@ Serverless Earth Observation Pipelines
 </td>
 <td width="25%" align="center" valign="top">
 
-### 🧠 Advanced Architectures
+###  Advanced Architectures
 
 **Graph Neural Networks for Road Networks**
 
@@ -281,7 +281,7 @@ Multi-Temporal Change Detection
 </td>
 <td width="25%" align="center" valign="top">
 
-### 🚀 MLOps for Geospatial
+###  MLOps for Geospatial
 
 **Model Versioning for Spatial ML**
 
@@ -303,13 +303,13 @@ Production Deployment Strategies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
-## 🎓 BACKGROUND & TRAJECTORY
+##  BACKGROUND & TRAJECTORY
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📖 Education & Specialization
+###  Education & Specialization
 
 **Current Focus**: Advanced Machine Learning & Spatial Data Science
 
@@ -326,7 +326,7 @@ Production Deployment Strategies
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Technical Evolution
+###  Technical Evolution
 
 **Foundation** → GIS Analysis & Cartography
 
@@ -341,13 +341,13 @@ Production Deployment Strategies
 <tr>
 <td colspan="2">
 
-### 📊 Impact Metrics
+###  Impact Metrics
 
 - **Projects**: Building systems that process terabytes of spatial data
 - **Innovation**: Pushing boundaries of automated infrastructure mapping
 - **Scale**: From single images to continental-scale analysis
 
-### 💭 Core Philosophy
+###  Core Philosophy
 
 > *"Geospatial data is the world's largest untapped ML resource"*
 
@@ -363,11 +363,11 @@ Production Deployment Strategies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
-## 🎯 WHAT DRIVES ME
+##  WHAT DRIVES ME
 
 <div align="center">
 
-### 🌍 Vision & Purpose
+###  Vision & Purpose
 
 </div>
 
@@ -381,13 +381,13 @@ Production Deployment Strategies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
-## 🌟 FUTURE DIRECTIONS
+##  FUTURE DIRECTIONS
 
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
 
-### 🛸 AI-Powered Earth Observation
+###  AI-Powered Earth Observation
 
 Real-time satellite imagery analysis
 
@@ -398,7 +398,7 @@ Automated change detection systems
 </td>
 <td width="25%" align="center" valign="top">
 
-### 🌐 Scalable Spatial Computing
+###  Scalable Spatial Computing
 
 Cloud-native geospatial processing
 
@@ -409,7 +409,7 @@ Serverless earth observation
 </td>
 <td width="25%" align="center" valign="top">
 
-### 🧠 Advanced Spatial ML
+###  Advanced Spatial ML
 
 Transformer architectures for imagery
 
@@ -420,7 +420,7 @@ Graph neural nets for spatial networks
 </td>
 <td width="25%" align="center" valign="top">
 
-### 📡 Production MLOps
+###  Production MLOps
 
 CI/CD for geospatial models
 
@@ -436,7 +436,7 @@ Model monitoring & drift detection
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
-## 🤝 LET'S COLLABORATE
+##  LET'S COLLABORATE
 
 <div align="center">
 
@@ -458,7 +458,7 @@ Model monitoring & drift detection
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
-## 📊 PERFORMANCE METRICS
+##  PERFORMANCE METRICS
 
 <div align="center">
 
@@ -478,7 +478,7 @@ Model monitoring & drift detection
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
 </div>
 
-## 💬 DEV WISDOM
+##  DEV WISDOM
 
 <div align="center">
 
@@ -492,8 +492,8 @@ Model monitoring & drift detection
 
 ---
 
-**⚡ "Transforming pixels into intelligence, one satellite image at a time"**
+** "Transforming pixels into intelligence, one satellite image at a time"**
 
-*Built with 💙 for the geospatial community | Last updated: January 2026*
+*Built with  for the geospatial community | Last updated: January 2026*
 
 </div>
