@@ -14,7 +14,7 @@ I build applied analytics projects that connect modeling, data preparation, visu
 | [Deep Learning Road Network Extraction](https://github.com/SairamJammu/deep-learning-road-network-extraction) | Semantic segmentation for aerial imagery | U-Net, DeepLabV3+, PSPNet, FPN, IoU/F1 evaluation |
 | [WOMart Sales Forecasting Capstone](https://github.com/SairamJammu/womart-sales-forecasting-capstone) | Retail sales forecasting and dashboarding | XGBoost, LightGBM, ARIMA, R Shiny, Power BI |
 | [KNFS Operations and Sales Dashboard](https://github.com/SairamJammu/knfs-operations-sales-dashboard) | Business intelligence for sales and inventory | Power BI, DAX, KPI design, operational recommendations |
-| [IMDB Sentiment Analysis](https://github.com/SairamJammu/Sairam_Jammu_BA-64061-001) | Neural-network NLP coursework reframed as a case study | Jupyter notebook, report deliverables, model experimentation |
+| [IMDB Sentiment Analysis](https://github.com/SairamJammu/imdb-sentiment-neural-networks) | Neural-network NLP coursework reframed as a case study | Jupyter notebook, report deliverables, model experimentation |
 
 ## Technical Focus
 
