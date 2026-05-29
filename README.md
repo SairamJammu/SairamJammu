@@ -1,8 +1,8 @@
 # Sairam Jammu
 
-Business Analytics graduate student focused on geospatial analytics, machine learning, forecasting, deep learning, and decision-support dashboards.
+Geospatial Data Analyst and Business Analytics graduate student focused on GIS, GeoAI, spatial machine learning, map data quality, and location intelligence.
 
-I build applied analytics projects that connect modeling, data preparation, visualization, and business interpretation. My current portfolio emphasizes geospatial AI, traffic forecasting with graph neural networks, retail forecasting, business intelligence dashboards, and practical ML documentation.
+I solve spatial problems using GIS, Python, and machine learning. My background includes 3+ years of spatial data production and Apple Maps-related quality validation work, and my current portfolio focuses on transportation analytics, urban intelligence, spatial data workflows, forecasting, and decision-ready geospatial products.
 
 [Portfolio](https://sairamjammu.github.io/geospatial-portfolio/) | [LinkedIn](https://linkedin.com/in/jammusairam) | [Email](mailto:jammusairam3@gmail.com)
 
@@ -10,23 +10,23 @@ I build applied analytics projects that connect modeling, data preparation, visu
 
 | Project | Focus | Evidence |
 | --- | --- | --- |
-| [Geospatial Portfolio](https://sairamjammu.github.io/geospatial-portfolio/) | Portfolio site for analytics, ML, and geospatial work | Live GitHub Pages site |
-| [Short-Term Traffic Forecasting](https://github.com/SairamJammu/short-term-traffic-forecasting) | Spatiotemporal traffic forecasting with graph neural networks | METR-LA, PyTorch, Graph WaveNet, 207 sensors, MAE/MAPE benchmarks |
-| [Deep Learning Road Network Extraction](https://github.com/SairamJammu/deep-learning-road-network-extraction) | Semantic segmentation for aerial imagery | U-Net, DeepLabV3+, PSPNet, FPN, IoU/F1 evaluation |
-| [WOMart Sales Forecasting Capstone](https://github.com/SairamJammu/womart-sales-forecasting-capstone) | Retail sales forecasting and dashboarding | XGBoost, LightGBM, ARIMA, R Shiny, Power BI |
-| [KNFS Operations and Sales Dashboard](https://github.com/SairamJammu/knfs-operations-sales-dashboard) | Business intelligence for sales and inventory | Power BI, DAX, KPI design, operational recommendations |
+| [GIS / GeoAI Portfolio](https://sairamjammu.github.io/geospatial-portfolio/) | Professional portfolio for GIS, GeoAI, Python geospatial workflows, and spatial data quality | Live GitHub Pages site |
+| [GeoAI Traffic Intelligence Platform](https://github.com/SairamJammu/short-term-traffic-forecasting) | Spatiotemporal traffic forecasting and GIS visualization concept | METR-LA, PyTorch, Graph WaveNet, 207 sensors, MAE/RMSE/MAPE benchmarks |
+| [Deep Learning Road Network Extraction](https://github.com/SairamJammu/deep-learning-road-network-extraction) | GeoAI semantic segmentation for aerial imagery | U-Net, DeepLabV3+, PSPNet, FPN, IoU/F1 evaluation |
+| [WOMart Sales Forecasting Capstone](https://github.com/SairamJammu/womart-sales-forecasting-capstone) | GIS-enhanced retail forecasting and regional demand analysis | XGBoost, Leaflet maps, regional summaries, forecast outputs |
+| [KNFS Operations and Sales Dashboard](https://github.com/SairamJammu/knfs-operations-sales-dashboard) | Decision-support dashboard for sales and inventory | Power BI, DAX, KPI design, operational recommendations |
 | [IMDB Sentiment Analysis](https://github.com/SairamJammu/imdb-sentiment-neural-networks) | Neural-network NLP coursework reframed as a case study | Jupyter notebook, report deliverables, model experimentation |
 
 ## Technical Focus
 
-**Machine learning:** Python, PyTorch, scikit-learn, XGBoost, LightGBM, neural networks, graph neural networks  
-**Analytics and BI:** R, Power BI, DAX, R Shiny, dashboard design, KPI storytelling  
-**Geospatial:** Remote sensing concepts, aerial imagery, semantic segmentation, GIS problem framing  
-**Workflow:** Jupyter, GitHub, reproducible reports, project documentation
+**GIS:** ArcGIS Online, QGIS, spatial analysis, cartography, map data quality, routing/navigation data concepts  
+**Python geospatial:** Pandas, NumPy, GeoPandas, Shapely, Rasterio, Folium, Matplotlib, notebooks  
+**Machine learning:** scikit-learn, PyTorch/TensorFlow basics, forecasting, graph neural network concepts, model evaluation  
+**Databases and workflow:** SQL, spatial database concepts, PostGIS basics, GitHub, GitHub Pages, Streamlit prototypes
 
 ## What I Am Building Toward
 
-I am developing a portfolio around applied analytics systems that are easy to inspect: each project should explain the problem, data, method, result, and business value clearly enough for a recruiter, reviewer, or collaborator to understand quickly.
+I am developing a portfolio around applied spatial intelligence: projects that explain the problem, data, method, map or model output, result, and decision value clearly enough for recruiters, GIS teams, and analytics reviewers to inspect quickly.
 
 ## Contact
 
