@@ -1,8 +1,8 @@
 # Sairam Jammu
 
-Geospatial Data Analyst and Business Analytics graduate student focused on GIS, GeoAI, spatial machine learning, map data quality, and location intelligence.
+Business Analytics graduate student at Kent State University building GIS, geospatial analytics, Python, and machine learning projects.
 
-I solve spatial problems using GIS, Python, and machine learning. My background includes 3+ years of spatial data production and Apple Maps-related quality validation work, and my current portfolio focuses on transportation analytics, urban intelligence, spatial data workflows, forecasting, and decision-ready geospatial products.
+I have 3+ years of experience supporting spatial data production and map-data quality validation workflows, including Apple Maps-related projects. My current portfolio focuses on practical GIS analysis, spatial data QA, traffic forecasting prototypes, dashboarding, and early GeoAI project work.
 
 [Portfolio](https://sairamjammu.github.io/geospatial-portfolio/) | [LinkedIn](https://linkedin.com/in/jammusairam) | [Email](mailto:jammusairam3@gmail.com)
 
@@ -10,23 +10,24 @@ I solve spatial problems using GIS, Python, and machine learning. My background 
 
 | Project | Focus | Evidence |
 | --- | --- | --- |
-| [GIS / GeoAI Portfolio](https://sairamjammu.github.io/geospatial-portfolio/) | Professional portfolio for GIS, GeoAI, Python geospatial workflows, and spatial data quality | Live GitHub Pages site |
-| [GeoAI Traffic Intelligence Platform](https://github.com/SairamJammu/short-term-traffic-forecasting) | Spatiotemporal traffic forecasting and GIS visualization concept | METR-LA, PyTorch, Graph WaveNet, 207 sensors, MAE/RMSE/MAPE benchmarks |
-| [Deep Learning Road Network Extraction](https://github.com/SairamJammu/deep-learning-road-network-extraction) | GeoAI semantic segmentation for aerial imagery | U-Net, DeepLabV3+, PSPNet, FPN, IoU/F1 evaluation |
-| [WOMart Sales Forecasting Capstone](https://github.com/SairamJammu/womart-sales-forecasting-capstone) | GIS-enhanced retail forecasting and regional demand analysis | XGBoost, Leaflet maps, regional summaries, forecast outputs |
-| [KNFS Operations and Sales Dashboard](https://github.com/SairamJammu/knfs-operations-sales-dashboard) | Decision-support dashboard for sales and inventory | Power BI, DAX, KPI design, operational recommendations |
-| [IMDB Sentiment Analysis](https://github.com/SairamJammu/imdb-sentiment-neural-networks) | Neural-network NLP coursework reframed as a case study | Jupyter notebook, report deliverables, model experimentation |
+| [GIS / GeoAI Portfolio](https://sairamjammu.github.io/geospatial-portfolio/) | Recruiter-facing portfolio for GIS, spatial analytics, and GeoAI learning projects | [Live site](https://sairamjammu.github.io/geospatial-portfolio/) |
+| [GeoAI Traffic Intelligence Platform](https://github.com/SairamJammu/short-term-traffic-forecasting) | METR-LA traffic forecasting with graph-based modeling ideas and GIS-style sensor visualization | [Repo](https://github.com/SairamJammu/short-term-traffic-forecasting) / [Case study](https://sairamjammu.github.io/geospatial-portfolio/case-studies/traffic-forecasting.html) |
+| [Deep Learning Road Network Extraction](https://github.com/SairamJammu/deep-learning-road-network-extraction) | Semantic segmentation for road extraction from aerial imagery | [Report](https://github.com/SairamJammu/deep-learning-road-network-extraction/blob/main/reports/final-report.pdf) / [Presentation](https://github.com/SairamJammu/deep-learning-road-network-extraction/blob/main/reports/final-presentation.pdf) |
+| [GIS-Enhanced WOMart Sales Forecasting](https://github.com/SairamJammu/womart-sales-forecasting-capstone) | Retail forecasting extended with simulated spatial features and map outputs | [Report](https://github.com/SairamJammu/womart-sales-forecasting-capstone/blob/main/report/WOMart-GIS-Sales-Forecasting.html) / [GIS outputs](https://github.com/SairamJammu/womart-sales-forecasting-capstone/tree/main/gis-outputs) |
+| [KNFS Operations and Sales Dashboard](https://github.com/SairamJammu/knfs-operations-sales-dashboard) | Power BI dashboard for sales, inventory, cost, and reorder analysis | [Report](https://github.com/SairamJammu/knfs-operations-sales-dashboard/blob/main/Presentation/KNFS_Report.pdf) / [Dashboard file](https://github.com/SairamJammu/knfs-operations-sales-dashboard/blob/main/dashboard/KNFS_Dashboard.pbix) |
+| [IMDB Sentiment Neural Networks](https://github.com/SairamJammu/imdb-sentiment-neural-networks) | Advanced ML coursework with notebook-based NLP experimentation | [Assignment folder](https://github.com/SairamJammu/imdb-sentiment-neural-networks/tree/main/Assignment-2) |
 
 ## Technical Focus
 
-**GIS:** ArcGIS Online, QGIS, spatial analysis, cartography, map data quality, routing/navigation data concepts  
-**Python geospatial:** Pandas, NumPy, GeoPandas, Shapely, Rasterio, Folium, Matplotlib, notebooks  
-**Machine learning:** scikit-learn, PyTorch/TensorFlow basics, forecasting, graph neural network concepts, model evaluation  
-**Databases and workflow:** SQL, spatial database concepts, PostGIS basics, GitHub, GitHub Pages, Streamlit prototypes
+**GIS and spatial analysis:** ArcGIS Online, QGIS, spatial joins, map interpretation, spatial QA, cartography basics  
+**Python and data workflows:** pandas, NumPy, GeoPandas, Shapely, Rasterio, Folium, Matplotlib, notebooks  
+**Machine learning:** scikit-learn, PyTorch/TensorFlow basics, forecasting, semantic segmentation, model evaluation  
+**Analytics and BI:** SQL, Power BI, DAX, R, dashboard design, KPI reporting  
+**Tools:** GitHub, GitHub Pages, Jupyter, Streamlit/Folium prototypes, reproducible reports
 
 ## What I Am Building Toward
 
-I am developing a portfolio around applied spatial intelligence: projects that explain the problem, data, method, map or model output, result, and decision value clearly enough for recruiters, GIS teams, and analytics reviewers to inspect quickly.
+I am shaping this portfolio around inspectable project evidence. Each project should make the problem, dataset, methods, results, limitations, and practical value clear enough for a recruiter, reviewer, or collaborator to evaluate quickly.
 
 ## Contact
 
